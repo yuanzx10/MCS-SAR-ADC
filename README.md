@@ -3,3 +3,15 @@ This is some of the code I used to get the behavior simulation result about the 
 Anyway, I put the code there, so that the readers may refer to it and may check the correctness of it if possible. This code is run in root-cern, not a pure standard C/C++, but one can find it is easy to adapt it to standard C/C++.
 
 Staging modified files test
+git status
+
+After 
+git add README.txt
+I change it once more. 
+git status
+
+hehe
+
+git diff test
+
+undo something
