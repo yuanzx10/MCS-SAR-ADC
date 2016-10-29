@@ -1,0 +1,3 @@
+This is the file I added through shell command line.
+After I submmit it to the git-respository in the web.
+I would like to change it, and then reload it.
